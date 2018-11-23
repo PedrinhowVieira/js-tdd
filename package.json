@@ -1,0 +1,24 @@
+{
+  "name": "js-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca do curso JS com TDD na prática",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PedrinhowVieira/js-tdd.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library"
+  ],
+  "author": "Pedro Vieira <pedro.dmvieira@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PedrinhowVieira/js-tdd/issues"
+  },
+  "homepage": "https://github.com/PedrinhowVieira/js-tdd#readme"
+}
